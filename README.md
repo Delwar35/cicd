@@ -30,7 +30,7 @@ To put it simply, the continuous integration is part of both continuous delivery
 ## What is a CICD Pipeline
 The CICD pipeline is all about automation: Initiating code builds, automated testing, and automated deploying to the staging or production environments. It’s complex and exciting at the same time, but incredibly fast, if the output of any stage fails, the next stage will also fail.
 
-## CICD Tools to build Pipeline?
+## CICD Tools to build Pipeline
 
 ![image](https://user-images.githubusercontent.com/94615905/145251531-ebc97643-d55d-4a73-9157-c7616c908161.png)
 

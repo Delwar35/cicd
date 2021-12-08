@@ -21,7 +21,7 @@ Goes one step further than continuous delivery, with this practice, every change
 
 # Jenkins
 
-**Jenkins pipeline**
+**Jenkins pipeline diagram**
 
 ![image](https://user-images.githubusercontent.com/94615905/145247570-c9a92e21-661f-4ce6-8c94-f4ac091ef1a4.png)
 

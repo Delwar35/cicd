@@ -13,3 +13,17 @@ An extension of continuous integration to make sure that you can release new cha
 
 ![image](https://user-images.githubusercontent.com/94615905/145240928-7bb9a509-8c94-4ba2-a594-1ece3757fd63.png)
 
+## Continuous Deployment 
+
+Goes one step further than continuous delivery, with this practice, every change that passes all stages of your production pipeline is released to your customers, there is no human intervention, and only a failed test will prevent a new change to be deployed to production.
+
+![image](https://user-images.githubusercontent.com/94615905/145248383-2db06be6-a849-441c-9765-0726b2e26799.png)
+
+
+# Jenkins
+
+**Jenkins pipeline**
+
+![image](https://user-images.githubusercontent.com/94615905/145247570-c9a92e21-661f-4ce6-8c94-f4ac091ef1a4.png)
+
+
